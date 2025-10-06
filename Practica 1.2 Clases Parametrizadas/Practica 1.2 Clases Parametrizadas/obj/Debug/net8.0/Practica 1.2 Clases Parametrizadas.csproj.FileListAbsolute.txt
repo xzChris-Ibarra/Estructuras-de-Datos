@@ -1,0 +1,14 @@
+C:\Users\chris\source\repos\Practica 1.2 Clases Parametrizadas\Practica 1.2 Clases Parametrizadas\obj\Debug\net8.0\Practica 1.2 Clases Parametrizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\Practica 1.2 Clases Parametrizadas\Practica 1.2 Clases Parametrizadas\obj\Debug\net8.0\Practica 1.2 Clases Parametrizadas.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\Practica 1.2 Clases Parametrizadas\Practica 1.2 Clases Parametrizadas\obj\Debug\net8.0\Practica 1.2 Clases Parametrizadas.AssemblyInfo.cs
+C:\Users\chris\source\repos\Practica 1.2 Clases Parametrizadas\Practica 1.2 Clases Parametrizadas\obj\Debug\net8.0\Practica 1.2 Clases Parametrizadas.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Practica 1.2 Clases Parametrizadas\Practica 1.2 Clases Parametrizadas\bin\Debug\net8.0\Practica 1.2 Clases Parametrizadas.exe
+C:\Users\chris\source\repos\Practica 1.2 Clases Parametrizadas\Practica 1.2 Clases Parametrizadas\bin\Debug\net8.0\Practica 1.2 Clases Parametrizadas.deps.json
+C:\Users\chris\source\repos\Practica 1.2 Clases Parametrizadas\Practica 1.2 Clases Parametrizadas\bin\Debug\net8.0\Practica 1.2 Clases Parametrizadas.runtimeconfig.json
+C:\Users\chris\source\repos\Practica 1.2 Clases Parametrizadas\Practica 1.2 Clases Parametrizadas\bin\Debug\net8.0\Practica 1.2 Clases Parametrizadas.dll
+C:\Users\chris\source\repos\Practica 1.2 Clases Parametrizadas\Practica 1.2 Clases Parametrizadas\bin\Debug\net8.0\Practica 1.2 Clases Parametrizadas.pdb
+C:\Users\chris\source\repos\Practica 1.2 Clases Parametrizadas\Practica 1.2 Clases Parametrizadas\obj\Debug\net8.0\Practica 1.2 Clases Parametrizadas.dll
+C:\Users\chris\source\repos\Practica 1.2 Clases Parametrizadas\Practica 1.2 Clases Parametrizadas\obj\Debug\net8.0\refint\Practica 1.2 Clases Parametrizadas.dll
+C:\Users\chris\source\repos\Practica 1.2 Clases Parametrizadas\Practica 1.2 Clases Parametrizadas\obj\Debug\net8.0\Practica 1.2 Clases Parametrizadas.pdb
+C:\Users\chris\source\repos\Practica 1.2 Clases Parametrizadas\Practica 1.2 Clases Parametrizadas\obj\Debug\net8.0\Practica 1.2 Clases Parametrizadas.genruntimeconfig.cache
+C:\Users\chris\source\repos\Practica 1.2 Clases Parametrizadas\Practica 1.2 Clases Parametrizadas\obj\Debug\net8.0\ref\Practica 1.2 Clases Parametrizadas.dll
