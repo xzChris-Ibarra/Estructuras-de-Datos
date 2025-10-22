@@ -1,0 +1,14 @@
+C:\Users\chris\OneDrive\Uni\Cuatri4\code\Visual Studio\P2.2_Queue-Colas\P2.2_Queue-Colas\bin\Debug\net8.0\P2.2_Queue-Colas.exe
+C:\Users\chris\OneDrive\Uni\Cuatri4\code\Visual Studio\P2.2_Queue-Colas\P2.2_Queue-Colas\bin\Debug\net8.0\P2.2_Queue-Colas.deps.json
+C:\Users\chris\OneDrive\Uni\Cuatri4\code\Visual Studio\P2.2_Queue-Colas\P2.2_Queue-Colas\bin\Debug\net8.0\P2.2_Queue-Colas.runtimeconfig.json
+C:\Users\chris\OneDrive\Uni\Cuatri4\code\Visual Studio\P2.2_Queue-Colas\P2.2_Queue-Colas\bin\Debug\net8.0\P2.2_Queue-Colas.dll
+C:\Users\chris\OneDrive\Uni\Cuatri4\code\Visual Studio\P2.2_Queue-Colas\P2.2_Queue-Colas\bin\Debug\net8.0\P2.2_Queue-Colas.pdb
+C:\Users\chris\OneDrive\Uni\Cuatri4\code\Visual Studio\P2.2_Queue-Colas\P2.2_Queue-Colas\obj\Debug\net8.0\P2.2_Queue-Colas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Uni\Cuatri4\code\Visual Studio\P2.2_Queue-Colas\P2.2_Queue-Colas\obj\Debug\net8.0\P2.2_Queue-Colas.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Uni\Cuatri4\code\Visual Studio\P2.2_Queue-Colas\P2.2_Queue-Colas\obj\Debug\net8.0\P2.2_Queue-Colas.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Uni\Cuatri4\code\Visual Studio\P2.2_Queue-Colas\P2.2_Queue-Colas\obj\Debug\net8.0\P2.2_Queue-Colas.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Uni\Cuatri4\code\Visual Studio\P2.2_Queue-Colas\P2.2_Queue-Colas\obj\Debug\net8.0\P2.2_Queue-Colas.dll
+C:\Users\chris\OneDrive\Uni\Cuatri4\code\Visual Studio\P2.2_Queue-Colas\P2.2_Queue-Colas\obj\Debug\net8.0\refint\P2.2_Queue-Colas.dll
+C:\Users\chris\OneDrive\Uni\Cuatri4\code\Visual Studio\P2.2_Queue-Colas\P2.2_Queue-Colas\obj\Debug\net8.0\P2.2_Queue-Colas.pdb
+C:\Users\chris\OneDrive\Uni\Cuatri4\code\Visual Studio\P2.2_Queue-Colas\P2.2_Queue-Colas\obj\Debug\net8.0\P2.2_Queue-Colas.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Uni\Cuatri4\code\Visual Studio\P2.2_Queue-Colas\P2.2_Queue-Colas\obj\Debug\net8.0\ref\P2.2_Queue-Colas.dll
